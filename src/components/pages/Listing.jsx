@@ -1,9 +1,11 @@
-import Header from "../molecules/Header"
+import ListBox from "../molecules/ListBox"
+import Subscribe from "../molecules/Subscribe"
 
 const Listing = () => {
   return (
     <>
-      <Header/>
+      <ListBox/>
+      <Subscribe/>
     </>
   )
 }

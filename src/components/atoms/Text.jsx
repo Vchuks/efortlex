@@ -9,7 +9,7 @@ const Text = ({className, body}) => {
 }
 
 Text.propTypes={
-body:PropTypes.string.isRequired,
+body:PropTypes.string,
 className: PropTypes.string.isRequired
 }
 export default Text

@@ -89,7 +89,7 @@ const Header = () => {
         </div>
         </div>
       </div>
-      <div className="bg-[#F7FAFC] px-24 py-4 flex gap-2">
+      <div className="bg-[#F7FAFC] px-24 pt-4 flex gap-2">
         <div className="flex items-center gap-1 text-ctwo">
           <Text className="" body="Home" />
           <FiChevronRight className="" />
